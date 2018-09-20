@@ -1,0 +1,94 @@
+Welcome to ASCII sudoku!
+
+--2-6-7--
+--32-8--5
+581--7-63
+7-----6--
+34-6-9-12
+--6-----4
+13-5--496
+8--1-45--
+--4-9-1--
+
+Cell (0,0) could have values 4, 9.
+Cell (0,1) could have values 9.
+No possible value for cell (0,2)
+Cell (0,3) could have values 3, 4, 9.
+No possible value for cell (0,4)
+Cell (0,5) could have values 1, 3, 5.
+No possible value for cell (0,6)
+Cell (0,7) could have values 4, 8.
+Cell (0,8) could have values 1, 8, 9.
+Cell (1,0) could have values 4, 6, 9.
+Cell (1,1) could have values 6, 7, 9.
+No possible value for cell (1,2)
+No possible value for cell (1,3)
+Cell (1,4) could have values 1, 4.
+No possible value for cell (1,5)
+Cell (1,6) could have values 9.
+Cell (1,7) could have values 4.
+No possible value for cell (1,8)
+No possible value for cell (2,0)
+No possible value for cell (2,1)
+No possible value for cell (2,2)
+Cell (2,3) could have values 4, 9.
+Cell (2,4) could have values 4.
+No possible value for cell (2,5)
+Cell (2,6) could have values 2, 9.
+No possible value for cell (2,7)
+No possible value for cell (2,8)
+No possible value for cell (3,0)
+Cell (3,1) could have values 1, 2, 5, 9.
+Cell (3,2) could have values 5, 8, 9.
+Cell (3,3) could have values 3, 4, 8.
+Cell (3,4) could have values 1, 2, 3, 4, 5, 8.
+Cell (3,5) could have values 1, 2, 3, 5.
+No possible value for cell (3,6)
+Cell (3,7) could have values 3, 5, 8.
+Cell (3,8) could have values 8, 9.
+No possible value for cell (4,0)
+No possible value for cell (4,1)
+Cell (4,2) could have values 5, 8.
+No possible value for cell (4,3)
+Cell (4,4) could have values 5, 7, 8.
+No possible value for cell (4,5)
+Cell (4,6) could have values 8.
+No possible value for cell (4,7)
+No possible value for cell (4,8)
+Cell (5,0) could have values 2, 9.
+Cell (5,1) could have values 1, 2, 5, 9.
+No possible value for cell (5,2)
+Cell (5,3) could have values 3, 7, 8.
+Cell (5,4) could have values 1, 2, 3, 5, 7, 8.
+Cell (5,5) could have values 1, 2, 3, 5.
+Cell (5,6) could have values 3, 8, 9.
+Cell (5,7) could have values 3, 5, 7, 8.
+No possible value for cell (5,8)
+No possible value for cell (6,0)
+No possible value for cell (6,1)
+Cell (6,2) could have values 7.
+No possible value for cell (6,3)
+Cell (6,4) could have values 2, 7, 8.
+Cell (6,5) could have values 2.
+No possible value for cell (6,6)
+No possible value for cell (6,7)
+No possible value for cell (6,8)
+No possible value for cell (7,0)
+Cell (7,1) could have values 2, 6, 7, 9.
+Cell (7,2) could have values 7, 9.
+No possible value for cell (7,3)
+Cell (7,4) could have values 2, 3, 7.
+No possible value for cell (7,5)
+No possible value for cell (7,6)
+Cell (7,7) could have values 2, 3, 7.
+Cell (7,8) could have values 7.
+Cell (8,0) could have values 2, 6.
+Cell (8,1) could have values 2, 5, 6, 7.
+No possible value for cell (8,2)
+Cell (8,3) could have values 3, 7, 8.
+No possible value for cell (8,4)
+Cell (8,5) could have values 2, 3, 6.
+No possible value for cell (8,6)
+Cell (8,7) could have values 2, 3, 7, 8.
+Cell (8,8) could have values 7, 8.
+Goodbye!
